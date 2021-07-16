@@ -1,0 +1,5 @@
+1.) Git is a version control system that is used to manage the changes in the files & folders your code is written in (codebase) in a way that enables the changes you make to be tracked over time. It also makes code being worked on by multiple people available in a centralized location. GitHub is a public place to host repositories (repos), which are essentially folders that use Git to track changes to the folders and files and folders within. It's a place to store and save your code, as well as track its progress, development, and changes over time. It also serves as a collaborative platform, which allows other users to work on your codebase.
+
+2.) We use the terminal in order to communicate to the computer more directly than using a GUI. We can create project folders and different file structures, list the contents of our directory, and move both files and folders around.
+
+3.) With version control, we can track our work, manage the changes in our codebase, allows multiple people to work on the files which people can make changes or revert to a previously working code if the current version does not work.
