@@ -1,0 +1,53 @@
+1.) When you type a letter on a keyboard, the computer takes the scan code of the particular letter just typed, 
+which instructs the keyboard to search its memory for the image of the particular letter from a font from its 
+memory, and then render a pixelated image of the particular letter on screen. 
+
+2.) Computers use inputs as a facilitator of a specific instruction, which leads to a particular action being 
+performed. This happens fundamentally through a series of logic gates which, depending on the input and logic 
+gates, transmits the message differently to the computer to be translated and then executed. 
+
+3.) Software requires no additional hardware beyond space required for memory. With software, there isn’t a 
+defined limit to what could be created on screen, from antivirus programs and app stores to search engines. It can 
+act as a great equalizer and bring down cost, or be used in order to generate even more profit, depending on who owns 
+the software and the surrounding competition. If someone understands the language of programming, then they 
+too could create a software program, which is only limited by the scope of their imagination.
+
+4.) Code becomes software as we inscribe instructions to the computer and the computer carries them out. We 
+inscribe these instructions in specific ways so that the computer can fundamentally understand the instructions we 
+are attempting to assign to it. This can be done through defining functions, variables, and arguments, which the 
+computer then uses to determine and translate an instruction. The computer may group the characters we type into 
+tokens so that the computer can analyze the code in the way that we require them to understand. From the functions, 
+variables, and arguments, the computer will try to execute an action.
+
+5.) An algorithm is essentially a function that is used in order to solve a problem when the software is executed.
+They come in many different forms, ranging in their use, examples including storing information efficiently, or 
+carrying out mathematical computations.
+
+6.) The DRY (Don't Repeat Yourself) principle is an idea to keep in mind so that coders and programmers let the 
+computers repeat themselves as opposed to the actual programmers. The idea is to name, define, and do things once, 
+and let the computer be responsible for the repetition process. This shifts the priority of the programmers to 
+defining functions and routines for reuse.
+
+7.) Object-oriented programming is a way to organize your coding. This could allow coders to link data components 
+that are related to each other together, instead of keeping them unorganized.
+
+8.) Data at its rudimentary level is information that's created by users, programmers, machines, etc. Because data
+creation is essentially limitless, coders have to create data organizers and management systems in order to keep
+record of information. 
+
+9.) Frameworks act as a library resourse that can be used in order to reference and use algorithms in order to
+create new things and solve certain problems, which people have access to, apply, and at times can contribute to in 
+certain cases as well.
+
+10.) Debugging is actively searching, finding, and fixing coding errors that arise from our errors which prevent 
+our program from working the way we'd want it to function.
+
+11.) Overcoming the challenges of coding to me is allegorical to overcoming the large issues that communities of
+people face. Understanding that the creation of programs, algorithms, and solutions is generally a collaborative 
+effort is an encouraging thought because the creativity, experience, and differing perspectives when not in 
+competition, but collaborative effort of people working towards a common purpose will yield to unique solutions
+that can help as many people as possible, if we consider as many people as possible. I know for myself, skills in 
+coding, web development, and data science, would enable me to help my communities in Belize from an environmental, 
+and & and well-being perspective, as I help to map out digestible, relevant information for citizens to reference
+and use to the benefit of their environment and communities. Additionally, I hope to open STEM jobs for Belizeans, 
+which can simultaneously facilitate both conservation efforts and economic growth there.
