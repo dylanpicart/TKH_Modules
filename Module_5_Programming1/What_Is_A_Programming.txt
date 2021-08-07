@@ -1,0 +1,18 @@
+1.) Python is a high-level programming language typically used to develop GUI applications, websites, and web applications. It’s widely used by data scientists and web developers and is a style of object-oriented programming, which is essentially a model that makes it easier to structure a software program into classes (or code blueprints), which are used to create objects. This is opposed to organizing software around functions and logic.
+
+2.) Python interprets data through data types, which consist of integers, floats, strings, and booleans. Integers are numbers that aren’t fractions. Examples include (1, 2, 3, etc.). Floats are variable types that are used to store point number values, which are numbers where the decimal isn’t in a fixated position within the number. An example of a float would be 3.14 or 1234.56 Strings are sequences of characters that can be used as a constant or variable (data values). An example of a string would be ‘Dylan’. Booleans are binary variables that are either true or false. A Boolean example would be like (10 > 9). We use data structures to organize, reference, and apply our data types.
+
+3.) A function is a block of code that performs some operations on input data in order to yield the desired output. In other words, this block of code only runs when it is called. 
+
+The def keyword (also known as the statement that defines a function in Python) is followed by the name of the function and arguments (also known as the input) within the parentheses— followed by a colon— to produce a function. Here is an example from the module reading:
+
+This is an example of a function:
+def add_two_numbers(a, b):
+sum = a + b
+return sum
+
+As seen in the example, the body of the function is the indented code block, and the output is returned with the return keyword. It is also important to note that Python uses indentation to create these blocks of code. Functions are essential as it enables the code to be more readable, reusable, and succinct. This is especially efficient and helpful for big projects, where time may be an important factor to consider. 
+
+4.) The Python print() function prints the specified message to the screen, or other standard output device. This is the simplest way to produce output as using the print() function allows us to pass zero or more expressions separated by commas; this function then converts the expressions we pass into a string before writing to the screen.
+
+Calling the print() function will produce an invisible newline character, which in turn will cause a blank line to appear on the screen. We may call print() numerous times like this to add vertical space by hitting enter on the keyboard. 
